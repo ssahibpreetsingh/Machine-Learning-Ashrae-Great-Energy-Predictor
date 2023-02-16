@@ -1,7 +1,7 @@
 
 # GREAT ENERGY PREDICTOR - ML REGRESSION
 Checkout Jupyter Notebook here - https://jovian.com/ssahibpreetsingh/ashrae-great-energy-predictor
-<br>
+<br><br>
 The data used in this project comes from a kaggle comptition that attempts to predict hourly electricity meter readings for different buildings situated at different sites using different electricity meters.
 Data for 2016 has been provided as Training Dataset and Test Dataset comprises of data from 2017 and 2018 for 1000+ buldings.
 **The organisation wants to make some improvements to the buildings so that buildings become energy efficient.**
