@@ -1,5 +1,5 @@
 
-# GREAT ENERGY PREDICTOR - ML REGRESSION
+# ASHRAE ENERGY CONSUMPTION PREDICTOR - ML REGRESSION
 Checkout Jupyter Notebook here - https://jovian.com/ssahibpreetsingh/ashrae-great-energy-predictor
 <br><br>
 The data used in this project comes from a kaggle comptition that attempts to predict hourly electricity meter readings for different buildings situated at different sites using different electricity meters.
